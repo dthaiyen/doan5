@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "doan5"
+    }
+  },
+  "defaultProject": "doan5",
+  "cli": {
+    "analytics": "6c6d704a-9791-48d5-983f-65d9d6f9715a"
+  }
 }
